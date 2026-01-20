@@ -1,0 +1,53 @@
+# שלג בגולן — Generative Engine Optimization Map
+
+> A תיירות ונופש business.
+
+---
+
+## Pages
+
+### Home
+https://-ff185019.zappy5.app
+
+### Parent Guide
+https://-ff185019.zappy5.app/parents
+
+### Kid Fun
+https://-ff185019.zappy5.app/kids
+
+### Contact
+https://-ff185019.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ff185019.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ff185019.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ff185019.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שלג בגולן
+שלג בגולן is a business in the תיירות ונופש industry.
+
+## Target Audience
+משפחות ומבוגרים שרוצים להנות מהשלג ולגלוש
+
+## Industry
+תיירות ונופש
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-ff185019.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-ff185019.zappy5.app/robots.txt
